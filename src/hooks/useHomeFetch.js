@@ -11,7 +11,7 @@ const initialState = {
     results: [],
     total_pages: 0,
     total_results: 0,
-}
+};
 
 // Custom Hook
 // Always name your custom hooks with 'use' before you have your name
