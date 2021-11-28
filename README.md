@@ -81,5 +81,5 @@ Thereafter you are taken to your settings page, you need to select the API optio
 
 After your request for an API key gets accepted, you will have to place that API key into the config.js file in the variable named API_KEY with a value of 'YOUR_API_KEY_GOES_HERE'.
 
-Finally, you can now run the program and be able to see the movie data.
+Finally, you can now use the scripts mentioned above to run the program and be able to see the movie data.
 
