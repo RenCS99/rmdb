@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Required changes to make to the config.js file
 
-### Obtaining an API from the movie database
+### Obtaining an API Key from the movie database
 
 Proceed to https://www.themoviedb.org/ in order to create an account. After you created your account, you need to go to your settings under the profile and settings option.
 
