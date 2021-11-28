@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Required changes to make to the config.js file
+
+### Obtaining an API from the movie database
+
+Proceed to https://www.themoviedb.org/ in order to create an account. After you created your account, you need to go to your settings under the profile and settings option.
+
+The Profile & Settings option is represented by your profile image located on the right of the navigation bar to the left of the search icon. 
+
+Thereafter you are taken to your settings page, you need to select the API option from the horizontal navigation bar to the left area of the page. That is the area where to can request an API key. 
+
+After your request for an API key gets accepted, you will have to place that API key into the config.js file in the variable named API_KEY with a value of 'YOUR_API_KEY_GOES_HERE'.
+
+Finally, you can now run the program and be able to see the movie data.
+
